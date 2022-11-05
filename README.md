@@ -18,6 +18,9 @@ https://github.com/mchakir19741/CRM_HOULM/blob/a0e9864e9ce58044bea7e07d8eb666824
 
 ## install Node.js & NPM 
 https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl 
+  
+  * nvm ls 
+  
 
 
 
