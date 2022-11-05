@@ -16,6 +16,11 @@
 https://github.com/mchakir19741/CRM_HOULM/blob/a0e9864e9ce58044bea7e07d8eb666824a0c9d92/exemple%20HTML.ipynb
 
 
+## install Node.js & NPM 
+https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl 
+
+
+
 ** UN 
 ** DEUX 
 *** TROIS
