@@ -22,6 +22,10 @@ https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-w
   * nvm ls 
   * node --version 
   * npm --version 
+
+## install Python & Django 
+
+
   
 
 ### CODE 

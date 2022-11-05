@@ -1,0 +1,23 @@
+{
+  "name": "crm_0.0.1",
+  "version": "1.0.0",
+  "description": "CRM",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchakir19741/CRM_HOULM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mchakir19741/CRM_HOULM/issues"
+  },
+  "homepage": "https://github.com/mchakir19741/CRM_HOULM#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "save-dev": "^0.0.1-security"
+  }
+}
